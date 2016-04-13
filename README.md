@@ -1,4 +1,4 @@
-# week-2-day-3-discussion-web-0416
+# Week 2, Day 3 Discussion
 
 ### Talk with your table mates and write a few sentences about each question.
 
