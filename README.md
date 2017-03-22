@@ -1,4 +1,4 @@
-# Week 2, Day 3 Discussion
+# SQL Discussion Questions
 
 ### Talk with your table mates and write a few sentences about each question.
 
@@ -14,3 +14,5 @@
 ```sql
 SELECT * FROM artists WHERE ArtistName='Kid Cudi'
 ```
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/week-2-day-3-discussion'>SQL</a> on Learn.co and start learning to code for free.</p>
