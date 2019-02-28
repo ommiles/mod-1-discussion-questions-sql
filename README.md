@@ -10,9 +10,11 @@
 
 4 . How do you think Yelp can show you all Latin Restaurants, with a $$ price rating, in the Financial District, which have higher than a 3 star rating?
 
- 5 . What do you think this is doing:
+ 5 . Translate this into your own words:
 ```sql
 SELECT * FROM artists WHERE ArtistName='Kid Cudi'
 ```
+
+6. Define "Persistence" in programming. Does the `@@all` class variable we have been using in our code meet all the criteria for "persistence".
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/week-2-day-3-discussion'>SQL</a> on Learn.co and start learning to code for free.</p>
