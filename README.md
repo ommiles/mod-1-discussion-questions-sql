@@ -17,4 +17,4 @@ SELECT * FROM artists WHERE ArtistName='Kid Cudi'
 
 6. Define "Persistence" in programming. Does the `@@all` class variable we have been using in our code meet all the criteria for "persistence".
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/week-2-day-3-discussion'>SQL</a> on Learn.co and start learning to code for free.</p>
+
